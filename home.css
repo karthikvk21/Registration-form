@@ -1,0 +1,16 @@
+.address{
+    height: 100px;
+    padding-bottom: 65px !important;
+}
+.container{
+    width: 65% !important;
+}
+.error{
+    color: red;
+}
+.btns{
+    color: black;
+}
+.btns-1{
+    border: 1px solid white;
+}
